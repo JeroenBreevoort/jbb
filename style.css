@@ -10,7 +10,8 @@ a[href*="wized.com?utm_campaign=badge"] {
 }
 
  .w-webflow-badge {
-    display: none !important;
-    visibility: hidden !important;
+position: fixed !important;
+display: None !important;
+visibility: hidden !important;}
   }
 </style>
