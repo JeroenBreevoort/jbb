@@ -1,0 +1,13 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -o-font-smoothing: antialiased;
+}
+
+a[href*="wized.com?utm_campaign=badge"] {
+    display: none !important;
+}
+
+.w-webflow-badge {
+
+display: none !important;
